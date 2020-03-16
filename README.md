@@ -10,10 +10,10 @@ This examle is done in Visual Studio Code and PlatformIO but can be modified to 
 * Stepper Motor Driver (to be specified)
 * Stepper Motor
 * 4 tactile buttons
-..* Move Left
-..* Move Right
-..* Mark Begin
-..* Advance sled
++ Move Left
++ Move Right
++ Mark Begin
++ Advance sled
 
 ## Operation
 1. Move the sled into position by pressing the left or right buttons
