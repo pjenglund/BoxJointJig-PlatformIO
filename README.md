@@ -19,3 +19,5 @@ Hardware is similar, if not exactly the same, as used in this example by Cosmas:
 3. Do you first cut (this may not cut anything off the material) and press the Advance button untill all fingers are cut
 
 **Please make sure the sled and/or work piece is NOT over the blade when pressing the Advance button!**
+
+The limit switches might need furhter development as I did not inlcude then into my build (as the sled is always manually advanced - with the exception of the Advance button - so please make sure you know what you are doing...
