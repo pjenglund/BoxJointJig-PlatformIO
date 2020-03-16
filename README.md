@@ -18,4 +18,4 @@ Hardware is similar, if not exactly the same, as used in this example by Cosmas:
 2. When sled is in correct position related to the table saw blade, press the Begin button. The sled will wibrate slightly to indicate that start postion has been set.
 3. Do you first cut (this may not cut anything off the material) and press the Advance button untill all fingers are cut
 
-**Please make sure the sled and/or work piece is over the blade when pressing the Advance button!**
+**Please make sure the sled and/or work piece is NOT over the blade when pressing the Advance button!**
