@@ -11,6 +11,8 @@ This examle is done in Visual Studio Code and PlatformIO but can be modified to 
 * Stepper Motor
 * 4 tactile buttons (Left, Right, Begin, Advance)
 
+Hardware is similar, if not exactly the same, as used in this example by Cosmas: https://youtu.be/Stz70oeY37Q
+
 ## Operation
 1. Move the sled into position by pressing the left or right buttons
 2. When sled is in correct position related to the table saw blade, press the Begin button. The sled will wibrate slightly to indicate that start postion has been set.
